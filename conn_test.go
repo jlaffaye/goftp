@@ -350,7 +350,7 @@ func TestConn4(t *testing.T) {
 	closeConn(t, mock, c, nil)
 }
 
-func TestConn6(t *testing.T) {
-	mock, c := openConn(t, "[::1]")
-	closeConn(t, mock, c, nil)
-}
+// func TestConn6(t *testing.T) {
+// 	mock, c := openConn(t, "[::1]")
+// 	closeConn(t, mock, c, nil)
+// }

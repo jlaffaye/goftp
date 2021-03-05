@@ -1,6 +1,6 @@
 # goftp #
 
-[![Build Status](https://travis-ci.org/jlaffaye/ftp.svg?branch=master)](https://travis-ci.org/jlaffaye/ftp)
+[![Units tests](https://github.com/jlaffaye/ftp/actions/workflows/unit_tests.yaml/badge.svg)](https://github.com/jlaffaye/ftp/actions/workflows/unit_tests.yaml)
 [![Coverage Status](https://coveralls.io/repos/jlaffaye/ftp/badge.svg?branch=master&service=github)](https://coveralls.io/github/jlaffaye/ftp?branch=master)
 [![Go ReportCard](http://goreportcard.com/badge/jlaffaye/ftp)](http://goreportcard.com/report/jlaffaye/ftp)
 [![Go Reference](https://pkg.go.dev/badge/github.com/jlaffaye/ftp.svg)](https://pkg.go.dev/github.com/jlaffaye/ftp)
